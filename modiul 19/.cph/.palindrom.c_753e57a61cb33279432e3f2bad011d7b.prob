@@ -1,0 +1,1 @@
+{"name":"Local: palindrom","url":"f:\\modiul 19\\palindrom.c","tests":[{"id":1683806524904,"input":"abcd","output":"NO"},{"id":1683806534241,"input":"madam","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\modiul 19\\palindrom.c","group":"local","local":true}
